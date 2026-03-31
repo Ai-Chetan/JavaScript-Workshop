@@ -176,4 +176,4 @@ new Chart(ctx, {
 ```
 
 ---
-Prev: [Module 3 - Events and Form Handling](03-events-forms.md) | Next: [Module 5 - Capstone Project](05-capstone-project.md)
+Prev: [Module 3 - Events and Form Handling](03-events-forms.md)
